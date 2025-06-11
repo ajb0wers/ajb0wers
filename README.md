@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ajb0wers/ajb0wers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
