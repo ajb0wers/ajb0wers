@@ -1,13 +1,13 @@
-__PREVUES OF COMING ATTRACTIONS__[^1]
+PREVUES OF COMING ATTRACTIONS[^1]
 
 - Markov Chains dir. @gigasquid, staring Erlang[^2]
 - Gossip Glommers directed by fly.io[^3]
 - Hacker Scripts  based on true story[^4]
 - Cowboys & htmx[^5] (Sci-Fi).
 
-"Get more out of life..."<br>
-Go Out To A<br>
-MOVIE<br>
+_"Get More Out of Life..."_\
+Go Out To A\
+MOVIE
 
 [1]: https://ninenines.eu
 [2]: https://htmx.org
