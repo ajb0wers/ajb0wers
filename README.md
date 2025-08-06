@@ -9,9 +9,7 @@ _"Get More Out of Life..."_\
 Go Out To A\
 MOVIE
 
-[1]: https://ninenines.eu
-[2]: https://htmx.org
 [^2]: https://howistart.org/posts/clojure/1/
 [^3]: https://fly.io/blog/gossip-glomers
-[^4]: [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-[^5]: [ninenines.eu][1], [htmx.org][2]
+[^4]: //github.com/NARKOZ/hacker-scripts
+[^5]: ninenines.eu, htmx.org
