@@ -3,7 +3,7 @@ PREVUES OF COMING ATTRACTIONS
 - Markov Unchained dir. @gigasquid, staring Erlang[^2]
 - Gossip Glommers dir. by fly.io[^3]
 - Hacker Scripts  based on true story[^4]
-- Cowboys & htmx[^5] (Sci-Fi).
+- Cowboys & htmx (Sci-Fi)[^5].
 
 _"Get More Out of Life..."_\
 Go Out To A\
