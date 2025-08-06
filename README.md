@@ -1,4 +1,4 @@
-PREVUES OF COMING ATTRACTIONS[^1]
+PREVUES OF COMING ATTRACTIONS
 
 - Markov Chains dir. @gigasquid, staring Erlang[^2]
 - Gossip Glommers dir. by fly.io[^3]
@@ -11,8 +11,6 @@ MOVIE
 
 [1]: https://ninenines.eu
 [2]: https://htmx.org
-
-[^1]: Grindhouse title card spelling.
 [^2]: https://howistart.org/posts/clojure/1/
 [^3]: https://fly.io/blog/gossip-glomers/
 [^4]: https://github.com/NARKOZ/hacker-scripts
