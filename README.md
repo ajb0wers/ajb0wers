@@ -1,4 +1,4 @@
-## PREVUES OF COMING ATTRACTIONS[^1]
+__PREVUES OF COMING ATTRACTIONS__[^1]
 
 - Markov Chains dir. @gigasquid, staring Erlang[^2]
 - Gossip Glommers directed by fly.io[^3]
