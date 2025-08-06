@@ -13,5 +13,5 @@ MOVIE
 [2]: https://htmx.org
 [^2]: https://howistart.org/posts/clojure/1/
 [^3]: https://fly.io/blog/gossip-glomers/
-[^4]: https://github.com/NARKOZ/hacker-scripts
+[^4]: [NARKOZ/hacker-scripts](//github.com/NARKOZ/hacker-scripts)
 [^5]: [ninenines.eu][1], [htmx.org][2]
