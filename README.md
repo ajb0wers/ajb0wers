@@ -1,7 +1,7 @@
 PREVUES OF COMING ATTRACTIONS[^1]
 
 - Markov Chains dir. @gigasquid, staring Erlang[^2]
-- Gossip Glommers directed by fly.io[^3]
+- Gossip Glommers dir. by fly.io[^3]
 - Hacker Scripts  based on true story[^4]
 - Cowboys & htmx[^5] (Sci-Fi).
 
