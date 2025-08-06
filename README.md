@@ -11,5 +11,5 @@ MOVIE
 
 [^2]: https://howistart.org/posts/clojure/1/
 [^3]: https://fly.io/blog/gossip-glomers
-[^4]: //github.com/NARKOZ/hacker-scripts
+[^4]: https://github.com/NARKOZ/hacker-scripts
 [^5]: ninenines.eu, htmx.org
