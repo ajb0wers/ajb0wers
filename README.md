@@ -1,7 +1,7 @@
 __PREVUES OF COMING ATTRACTIONS__
 
-- Markov Unchained dir. Clojure, staring Erlang[^1]
 - Gossip Glomers dir. by fly.io[^2]
+- Markov Unchained staring Erlang[^1]
 - Hacker Scripts  based on true story[^3]
 - Cowboys & htmx (Sci-Fi)[^4].
 
