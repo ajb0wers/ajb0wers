@@ -6,7 +6,7 @@ __PREVUES OF COMING ATTRACTIONS__
 
 __NOW SHOWING__
 
-- [Said](//github.com/ajb0wers/said) &mdash; Erlang, Websockets & htmx.
+- [Said](https://github.com/ajb0wers/said) &mdash; Erlang, Websockets & htmx.
 
 [1]: https://howistart.org/posts/clojure/1/
 [2]: https://fly.io/blog/gossip-glomers
